@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="pwclogo">
+    <file>pwclogo.jpg</file>
+  </qresource>
+</RCC>
